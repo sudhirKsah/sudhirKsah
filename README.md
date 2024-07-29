@@ -5,7 +5,7 @@
 
 -  I’m currently learning more about full stack
   
-- 💬 Ask me about **Javascript Eco System, Python**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **sudhirsahace333@gmail.com**
 
